@@ -1,0 +1,5 @@
+foo: 'bar'
+longText: >
+  Tôi là Mạnh và tôi thật tuyệt vời! <br>
+  Hãy như tôi!
+bar: 'foooooo'

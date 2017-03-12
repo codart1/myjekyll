@@ -1,0 +1,12 @@
+---
+title: Portfolio
+---
+
+<h2>Projects: </h1>
+
+{% for project in site.portfolio %}
+    <div>
+        
+        <a href="{% link _portfolio/pagebuilder.html %}">{{ project.title }}</a>
+    </div>
+{% endfor %}
